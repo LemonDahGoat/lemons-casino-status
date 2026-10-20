@@ -67,6 +67,14 @@
   "leaders": [
     {
       "rank": 1,
+      "username": "Player",
+      "balance": 11000,
+      "won": 0,
+      "wagered": 0,
+      "games": 0
+    },
+    {
+      "rank": 2,
       "username": "Lemon",
       "balance": 1007,
       "won": 7,
