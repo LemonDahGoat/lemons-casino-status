@@ -1,11 +1,11 @@
 {
   "online": true,
   "bot": "LemonsCasino",
-  "updated_at": "2026-10-20T10:05:14.213Z",
-  "timestamp": 1792490714213,
+  "updated_at": "2026-10-20T10:05:44.213Z",
+  "timestamp": 1792490744213,
   "players": 1,
-  "total_gambles": 6,
-  "total_wagered": 3007,
+  "total_gambles": 7,
+  "total_wagered": 10507,
   "biggest_win": 500,
   "biggest_win_user": "Lemon"
 }
