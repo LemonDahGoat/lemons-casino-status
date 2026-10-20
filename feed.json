@@ -3,6 +3,15 @@
     {
       "user": "Lemon",
       "game": "blackjack",
+      "bet": 7500,
+      "payout": 0,
+      "profit": -7500,
+      "time": 1792490727535,
+      "detail": "Dealer wins (you 17 vs dealer 21)"
+    },
+    {
+      "user": "Lemon",
+      "game": "blackjack",
       "bet": 7,
       "payout": 14,
       "profit": 7,
@@ -59,11 +68,21 @@
     {
       "rank": 1,
       "username": "Lemon",
-      "balance": 7507,
+      "balance": 1007,
       "won": 7,
-      "wagered": 3007,
-      "games": 6
+      "wagered": 10507,
+      "games": 7
     }
   ],
-  "highstakes": []
+  "highstakes": [
+    {
+      "user": "Lemon",
+      "game": "blackjack",
+      "bet": 7500,
+      "payout": 0,
+      "profit": -7500,
+      "time": 1792490727535,
+      "detail": "Dealer wins (you 17 vs dealer 21)"
+    }
+  ]
 }
