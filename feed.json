@@ -1,6 +1,15 @@
 {
   "activity": [
     {
+      "user": "Lemon",
+      "game": "mines",
+      "bet": 500,
+      "payout": 0,
+      "profit": -500,
+      "time": 1792489385532,
+      "detail": "hit a mine on pick #5 (3 mines)"
+    },
+    {
       "user": "Player",
       "game": "crash",
       "bet": 500,
@@ -31,11 +40,11 @@
   "leaders": [
     {
       "rank": 1,
-      "username": "Player",
-      "balance": 8000,
+      "username": "Lemon",
+      "balance": 7500,
       "won": 0,
-      "wagered": 2000,
-      "games": 3
+      "wagered": 2500,
+      "games": 4
     }
   ],
   "highstakes": []
