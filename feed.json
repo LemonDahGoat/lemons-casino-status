@@ -2,6 +2,15 @@
   "activity": [
     {
       "user": "Lemon",
+      "game": "blackjack",
+      "bet": 500,
+      "payout": 500,
+      "profit": 0,
+      "time": 1792490659927,
+      "detail": "Push (you 19 vs dealer 19)"
+    },
+    {
+      "user": "Lemon",
       "game": "mines",
       "bet": 500,
       "payout": 0,
@@ -41,10 +50,10 @@
     {
       "rank": 1,
       "username": "Lemon",
-      "balance": 7000,
+      "balance": 7500,
       "won": 0,
       "wagered": 3000,
-      "games": 4
+      "games": 5
     }
   ],
   "highstakes": []
