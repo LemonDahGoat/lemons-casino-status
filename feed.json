@@ -1,5 +1,15 @@
 {
-  "activity": [],
+  "activity": [
+    {
+      "user": "Player",
+      "game": "blackjack",
+      "bet": 1000,
+      "payout": 0,
+      "profit": -1000,
+      "time": 1792488836232,
+      "detail": "You busted! (you 22 vs dealer 18)"
+    }
+  ],
   "leaders": [
     {
       "rank": 1,
@@ -7,7 +17,7 @@
       "balance": 9000,
       "won": 0,
       "wagered": 1000,
-      "games": 0
+      "games": 1
     }
   ],
   "highstakes": []
