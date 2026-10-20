@@ -1,6 +1,15 @@
 {
   "activity": [
     {
+      "user": "Lemon2.0",
+      "game": "mines",
+      "bet": 500,
+      "payout": 0,
+      "profit": -500,
+      "time": 1792532579629,
+      "detail": "hit a mine on pick #5 (3 mines)"
+    },
+    {
       "user": "Player",
       "game": "crash",
       "bet": 100,
@@ -80,7 +89,7 @@
       "balance": 10400,
       "won": 0,
       "wagered": 600,
-      "games": 1
+      "games": 2
     },
     {
       "rank": 2,
