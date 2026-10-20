@@ -1,6 +1,15 @@
 {
   "activity": [
     {
+      "user": "Player",
+      "game": "crash",
+      "bet": 100,
+      "payout": 0,
+      "profit": -100,
+      "time": 1792532529245,
+      "detail": "crashed at 1x"
+    },
+    {
       "user": "Lemon",
       "game": "blackjack",
       "bet": 7500,
@@ -68,10 +77,10 @@
     {
       "rank": 1,
       "username": "Player",
-      "balance": 11000,
+      "balance": 10900,
       "won": 0,
-      "wagered": 0,
-      "games": 0
+      "wagered": 100,
+      "games": 1
     },
     {
       "rank": 2,
