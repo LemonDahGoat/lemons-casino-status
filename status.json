@@ -1,8 +1,8 @@
 {
-  "online": true,
+  "online": false,
   "bot": "LemonsCasino",
-  "updated_at": "2026-10-20T09:41:30.896Z",
-  "timestamp": 1792489290896,
+  "updated_at": "2026-10-20T09:41:35.220Z",
+  "timestamp": 1792489295220,
   "players": 1,
   "total_gambles": 3,
   "total_wagered": 2000,
