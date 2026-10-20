@@ -1,5 +1,14 @@
 {
   "activity": [],
-  "leaders": [],
+  "leaders": [
+    {
+      "rank": 1,
+      "username": "Player",
+      "balance": 9000,
+      "won": 0,
+      "wagered": 1000,
+      "games": 0
+    }
+  ],
   "highstakes": []
 }
