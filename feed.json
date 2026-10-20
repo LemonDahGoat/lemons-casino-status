@@ -2,6 +2,24 @@
   "activity": [
     {
       "user": "Player",
+      "game": "crash",
+      "bet": 500,
+      "payout": 0,
+      "profit": -500,
+      "time": 1792488917983,
+      "detail": "crashed at 1x"
+    },
+    {
+      "user": "Player",
+      "game": "crash",
+      "bet": 500,
+      "payout": 0,
+      "profit": -500,
+      "time": 1792488902415,
+      "detail": "crashed at 1x"
+    },
+    {
+      "user": "Player",
       "game": "blackjack",
       "bet": 1000,
       "payout": 0,
@@ -14,10 +32,10 @@
     {
       "rank": 1,
       "username": "Player",
-      "balance": 9000,
+      "balance": 8000,
       "won": 0,
-      "wagered": 1000,
-      "games": 1
+      "wagered": 2000,
+      "games": 3
     }
   ],
   "highstakes": []
